@@ -128,3 +128,7 @@ print filter(parzyste, liczby)
 print eval('2+2')
 print
 exec ('for i in range(1,3): print i')
+
+
+
+print funkcje wyslane
